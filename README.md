@@ -2,5 +2,5 @@
 
 
 # Modelle
-* All-Road Air OPUS
+* [All-Road Air OPUS](opus-air-all-road/README.md)
 * Off-Road Air OPUS
