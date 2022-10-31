@@ -1,18 +1,14 @@
-## BENUTZERHANDBUCH
-
-### Modell Nr. OFC195CAIR
+# Modell Nr. OFC195CAIR
 
 OFC195CAIR-UM-0921-Rev.J
 
-___
-
-### WILLKOMMEN.
+# WILLKOMMEN.
 
 Herzlichen Glückwunsch zum Kauf Ihres neuen OPUS® Wohnmobils.
 
 Vor Ihnen liegen Jahre voller unvergesslicher Erlebnisse. Machen wir Sie zunächst mit Ihrem neuen Faltcamper vertraut.
 
-#### Informationshinweise
+# Informationshinweise
 
 In diesem Handbuch finden Sie Abschnitte, die in zwei verschiedenen Farben und mit Symbolen hervorgehoben sind.
 
@@ -26,67 +22,98 @@ Bitte beachten Sie vor dem ersten Einsatz die Hinweise zur korrekten Nutzung, La
 
 Üben Sie den Aufbau in aller Ruhe und bereiten Sie sich vor Ihrer ersten Fahrt gründlich vor.
 
-___
-
-### INHALT.
+# INHALT.
 
 Klicken Sie unten auf ein Thema, um direkt zu dieser Seite zu gelangen. Sie können jederzeit zur Inhaltsseite zurückkehren, indem Sie auf den Link in der Fußzeile der Seite klicken.
 
-- [**INHALT.**](https://opuscamper.de/opus-all-road-handbuch/#contents)
-- [**FAHRZEUG-IDENTIFIZIERUNGSNUMMER (VIN).**](https://opuscamper.de/opus-all-road-handbuch/#vin)
-- [**SPEZIFIKATIONEN.**](https://opuscamper.de/opus-all-road-handbuch/#specifications)
-- [**TEILEREFERENZ.**](https://opuscamper.de/opus-all-road-handbuch/#parts)
-- [**TRANSPORTIEREN.**](https://opuscamper.de/opus-all-road-handbuch/#transporting)
-    - KUPPLUNG
-    - STECKER
-    - ANSCHLIESSEN
-    - AUSHÄNGEN
-    - LASTENTRANSPORT
-    - SINNVOLLES LADEN
-    - ZIEHEN
-- [**AUFSTELLEN.**](https://opuscamper.de/opus-all-road-handbuch/#setting-up)
-    - ERSTE SCHRITTE
-    - ZELT AUFBLASEN
-    - KÜCHENBEREICH
-    - CLUB-LOUNGE
-    - ZUSATZBETT
-- [**WASSERANLAGE.**](https://opuscamper.de/opus-all-road-handbuch/#water-system)
-- [**GASANLAGE.**](https://opuscamper.de/opus-all-road-handbuch/#gas-system)
-- [**ELEKTRISCHES SYSTEM.**](https://opuscamper.de/opus-all-road-handbuch/#electrical-system)
-- [**PACKUNG DAUNEN.**](https://opuscamper.de/opus-all-road-handbuch/#packing-down)
+- [Modell Nr. OFC195CAIR](#modell-nr-ofc195cair)
+- [WILLKOMMEN.](#willkommen)
+- [Informationshinweise](#informationshinweise)
+- [INHALT.](#inhalt)
+- [FAHRZEUGIDENTIFIKATIONSNUMMER (VIN).](#fahrzeugidentifikationsnummer-vin)
+- [IHRE VIN](#ihre-vin)
+- [SPEZIFIKATIONEN.](#spezifikationen)
+- [PARTS REFERENCE.](#parts-reference)
+- [TRANSPORTIEREN.](#transportieren)
+  - [KUPPLUNG](#kupplung)
+  - [STECKER](#stecker)
+  - [EINHÄNGEN](#einhängen)
+  - [ABKUPPLUNG](#abkupplung)
+  - [LADUNGSVERKEHR](#ladungsverkehr)
+  - [SINNVOLLE BELADUNG](#sinnvolle-beladung)
+- [ANSCHLEPPEN](#anschleppen)
+- [AUFBAUEN.   ](#aufbauen---)
+  - [ANFANGSSCHRITTE](#anfangsschritte)
+  - [ZELT AUFBLASEN](#zelt-aufblasen)
+  - [KÜCHENBEREICH](#küchenbereich)
+  - [CLUB-LOUNGE](#club-lounge)
+  - [ZUSATZBETT](#zusatzbett)
+- [WASSERSYSTEM.   ](#wassersystem---)
+- [GASANLAGE.   ](#gasanlage---)
+- [ELEKTRISCHE ANLAGE.   ](#elektrische-anlage---)
+- [VERPACKUNG.   ](#verpackung---)
+- [SONNENVERDECK.   ](#sonnenverdeck---)
+  - [TEILELISTE](#teileliste)
+  - [MONTAGE](#montage)
+- [LUFTVORZELT.   ](#luftvorzelt---)
+  - [TEILELISTE](#teileliste-1)
+  - [MONTAGE](#montage-1)
+  - [ABPACKEN](#abpacken)
+- [AIR WINDBREAK SET \& GROSSE PLATTE.](#air-windbreak-set--grosse-platte)
+  - [STÜCKLISTE - WINDSCHUTZSET](#stückliste---windschutzset)
+  - [STÜCKLISTE - LUFTWINDSCHUTZ GROSSES PANEEL](#stückliste---luftwindschutz-grosses-paneel)
+  - [MONTAGE](#montage-2)
+  - [ABPACKEN](#abpacken-1)
+- [DACHLAST TRAGEN.](#dachlast-tragen)
+- [LAGERUNG \& WARTUNG.](#lagerung--wartung)
+  - [LAGERUNG](#lagerung)
+  - [ZURÜCK AUF DIE STRASSE](#zurück-auf-die-strasse)
+  - [AUFBLASBARE TECHNOLOGIE](#aufblasbare-technologie)
+  - [WETTERBEDINGUNGEN](#wetterbedingungen)
+    - [GEWEBE](#gewebe)
+    - [VERWITTERUNG DES ZUM NÄHEN VERWENDETEN SPEZIALGARNS](#verwitterung-des-zum-nähen-verwendeten-spezialgarns)
+  - [PFLEGE FÜR IHR ZELT](#pflege-für-ihr-zelt)
+    - [SPEZIALISIERTE LEINWANDPRODUKTE](#spezialisierte-leinwandprodukte)
+  - [AUSSENPFLEGE](#aussenpflege)
+  - [INNENPFLEGE](#innenpflege)
+  - [VERMEIDUNG VON FARBÜBERTRAGUNGEN](#vermeidung-von-farbübertragungen)
+  - [ERSATZRAD \& TRÄGER](#ersatzrad--träger)
+  - [KONDENSATION](#kondensation)
+  - [BELÜFTUNG](#belüftung)
+- [FEHLERSUCHE.](#fehlersuche)
+  - [ELEKTRIK](#elektrik)
+    - [LAUFLICHT](#lauflicht)
+    - [HEIZUNG](#heizung)
+    - [KÜHLSCHRANK](#kühlschrank)
+    - [12v \& SICHERUNGEN](#12v--sicherungen)
+    - [NETZSTECKDOSEN \& SCHUTZSCHALTER](#netzsteckdosen--schutzschalter)
+    - [STECKDOSEN UND VERLÄNGERUNGEN](#steckdosen-und-verlängerungen)
+    - [BATTERIE, AUFLADEN UND ANSCHLIESSEN](#batterie-aufladen-und-anschliessen)
+  - [LUFT ZELT/LEINWAND](#luft-zeltleinwand)
+    - [TEILWEISES ABLASSEN DER LUFT AUS DEM ZELT](#teilweises-ablassen-der-luft-aus-dem-zelt)
+    - [LUFTSCHLAUCH/BLASE IM AUFGEBLASENEN ZUSTAND WECHSELN](#luftschlauchblase-im-aufgeblasenen-zustand-wechseln)
+    - [AUSWECHSELN DES LUFTSCHLAUCHS/DER LUFTBLASE IM ENTLEERTEN ZUSTAND](#auswechseln-des-luftschlauchsder-luftblase-im-entleerten-zustand)
+    - [PUMPE](#pumpe)
+    - [VORHANDSCHIENE](#vorhandschiene)
+    - [RIPPEN \& RÄUME](#rippen--räume)
+    - [NÄHTE UND KLETTVERSCHLUSS](#nähte-und-klettverschluss)
+    - [BUNGEES \& KNOPFKLAMMERN](#bungees--knopfklammern)
+    - [FLECKEN](#flecken)
+    - [NACHIMPRÄGNIERUNG \& NAHTVERSIEGELUNG](#nachimprägnierung--nahtversiegelung)
+    - [WASSEREINTRITT](#wassereintritt)
+    - [REISSVERSCHLÜSSE](#reissverschlüsse)
+  - [HOB UNIT](#hob-unit)
+  - [SPÜLE/WASSERVERSORGUNG](#spülewasserversorgung)
+    - [PUMPE \& DURCHFLUSS](#pumpe--durchfluss)
+  - [REIFEN/RÄDER](#reifenräder)
+- [GARANTIE.](#garantie)
+- [Kontakt](#kontakt)
 
-- [**SONNENDACH.**](https://opuscamper.de/opus-all-road-handbuch/#sun-canopy)
-- [**LUFTVORZELT.**](https://opuscamper.de/opus-all-road-handbuch/#air-awning)
-    - TEILELISTE
-    - MONTAGE
-    - ABPACKEN
-- [**LUFT-WINDSCHUTZSET & GROSSE PLATTE.**](https://opuscamper.de/opus-all-road-handbuch/#wind-breaks)
-- [**DACHLASTTRÄGER.**](https://opuscamper.de/opus-all-road-handbuch/#roof-load-carrying)
-- [**LAGERUNG & WARTUNG.**](https://opuscamper.de/opus-all-road-handbuch/#storage)
-    - LAGERUNG
-    - ZURÜCK AUF DIE STRASSE
-    - AUFBLASBARE TECHNIK
-    - WETTERUNG
-    - PFLEGE FÜR IHR LEINEN
-    - ÄUSSERE PFLEGE
-    - INNERE PFLEGE
-    - VERHINDERUNG VON FARBÜBERTRAGUNGEN
-    - ERSATZRAD & TRÄGER
-    - KONDENSATION
-    - BELÜFTUNG
-- [**STÖRUNGSSUCHE**](https://opuscamper.de/opus-all-road-handbuch/#troubleshooting)
-    - ELEKTROTECHNIK
-    - LUFTZELT/SEGELTUCH
-    - HOB-EINHEIT
-    - SPÜLE/WASSERVERSORGUNG
-    - REIFEN/RÄDER
-- [**GARANTIE.**](https://opuscamper.de/opus-all-road-handbuch/#warranty)
 
-___
 
-### FAHRZEUGIDENTIFIKATIONSNUMMER (VIN).
+# FAHRZEUGIDENTIFIKATIONSNUMMER (VIN).
 
-#### IHRE VIN
+# IHRE VIN
 
 Jeder OPUS® hat eine Fahrzeug-Identifikationsnummer (VIN). Das VIN-Schild befindet sich an der Außenseite Ihres OPUS® links neben der Tür. Wir empfehlen Ihnen, Ihre VIN in die untenstehende Vorlage einzutragen. Dies wird von den Versicherungsgesellschaften verlangt.
 
@@ -96,9 +123,9 @@ Jeder OPUS® hat eine Fahrzeug-Identifikationsnummer (VIN). Das VIN-Schild befin
 
 1050 kg steht hier für die technisch zulässige Gesamtmasse
 
-___
 
-### SPEZIFIKATIONEN.
+
+# SPEZIFIKATIONEN.
 
 <table id="u-full-width"><tbody><tr><td>Abmessungen</td><td></td></tr><tr><td>Gesamtlänge (geschlossen) incl. Deichsel</td><td>430cm</td></tr><tr><td>Gesamtbreite</td><td>201cm</td></tr><tr><td>Länge innen (Hauptteil)</td><td>283cm</td></tr><tr><td>Breite innen (Hauptteil (Hauptteil)</td><td>188cm</td></tr><tr><td>Schlepphöhe</td><td>120cm</td></tr><tr><td>Räder</td><td>185/70 R13</td></tr><tr><td>Gesamtlänge (aufgerichtet)</td><td>580cm</td></tr><tr><td>Gesamt Höhe (aufgerichtet)</td><td>275cm</td></tr><tr><td>Innenhöhe (max)</td><td>244cm</td></tr><tr><td>Bettgröße 1</td><td>190cm x 140cm</td></tr><tr><td>Bettgröße 2</td><td>190cm x 140cm</td></tr><tr><td>Volle Vorzeltbreite (optional)</td><td>600cm</td></tr><tr><td>Volle Vorzelttiefe (optional)</td><td>240cm</td></tr></tbody></table>
 
@@ -106,9 +133,9 @@ ___
 
 ![Maßdiagramme](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-5-1.png)
 
-___
 
-### PARTS REFERENCE.
+
+# PARTS REFERENCE.
 
 1.  Bettkasten 1
 2.  Spüleinheit
@@ -147,13 +174,11 @@ ___
 
 ![Teilereferenzdiagramm 4](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-7-3.png)
 
-___
+# TRANSPORTIEREN.    
 
-### TRANSPORTIEREN.    [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/jSyhPFqNSyo)
+[![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/jSyhPFqNSyo)
 
-___
-
-#### KUPPLUNG
+## KUPPLUNG
 
 Der OPUS® ist serienmäßig mit einer Verschlusskupplung aus gepresstem Stahl ausgestattet, die für alle handelsüblichen 50-mm-Kugelkopfanschlüsse geeignet ist.
 
@@ -172,7 +197,7 @@ Das Full Stop Saracen Hitch Lock (optionales Extra) bietet zusätzliche Sicherhe
 [Saracen KA Kupplungsschloss](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-8-3.png)  
 OPTIONALES KUPPLUNGSSCHLOSS
 
-#### STECKER
+## STECKER
 
 Der OPUS® ist mit einem 13-poligen Stecker ausgestattet, an den die gesamte Außenbeleuchtung des Anhängers sowie die Anschlüsse angeschlossen werden, über die die Freizeitbatterie des OPUS® während der Fahrt von Ihrem Fahrzeug geladen werden kann. Dieser Anschluss ermöglicht auch die Kühlfunktion des Kühlschranks (Sonderausstattung) während der Fahrt über die 12-V-Steckdose im Schrank direkt unter dem Kühlschrank, die direkt mit dem 13-poligen Stecker verbunden ist und den 12-V-Stromkreis des Wohnmobils umgeht.
 
@@ -186,9 +211,9 @@ Um jedoch die Funktionen des 13-poligen Steckers nutzen zu können, sollte Ihr F
 ![13-polige Steckdose](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-9-1.png)  
 BUCHSE ADAPTER
 
-___
 
-#### EINHÄNGEN
+
+## EINHÄNGEN
 
 1\. Wenn Sie den OPUS® Camper an die Anhängerkupplung Ihres Fahrzeugs ankuppeln, müssen Sie sicherstellen, dass sich jemand in der Nähe der Handbremse befindet, um die Kontrolle über den Anhänger zu behalten, insbesondere beim Manövrieren an einem Hang.
 
@@ -229,25 +254,25 @@ HEBEN SIE DAS STÜTZRAD AN
 
 Prüfen Sie die Begrenzungs-, Seiten-, Brems-, Rückfahr- und Warnleuchten sowie die beiden Fahrtrichtungsanzeiger.
 
-___
 
-#### ABKUPPLUNG
+
+## ABKUPPLUNG
 
 Ziehen Sie die Handbremse an. Lösen und sichern Sie das Stützrad und das Rohr in einer niedrigeren Position, kurbeln Sie das Stützrad nach unten, bis es den Boden berührt und beginnt, das Gewicht des Wohnmobils zu tragen. Eine gewisse Gewichtsentlastung der Zugkugel wird zu beobachten sein. Der Griff der Kupplung kann angehoben werden, um die Kupplung von der Zugkugel zu lösen. Drehen Sie das Stützrad weiter, bis sich die Kupplung von der Zugkugel gelöst hat. Ziehen Sie dann den 13-poligen Stecker und das Abreißkabel ab.
 
 Wenn Sie bereit sind, lösen Sie die Handbremse; der Anhänger kann nun getrennt vom Zugfahrzeug manövriert werden.
 
-___
 
-#### LADUNGSVERKEHR
+
+## LADUNGSVERKEHR
 
 Es liegt in der Verantwortung des Fahrers des Zugfahrzeugs, dafür zu sorgen, dass die Ladung, wie z. B. Fahrräder, Dachboxen, Kajaks usw., vor dem Transport entsprechend gesichert ist.
 
 Die technisch zulässige Gesamtmasse (MTPLM) darf unter keinen Umständen überschritten werden.
 
-___
 
-#### SINNVOLLE BELADUNG
+
+## SINNVOLLE BELADUNG
 
 Gegenstände, die auf das OPUS® Dach geladen werden, sollten so montiert werden, dass die schwersten Gegenstände zur Vorderseite des Wohnmobils hin liegen.
 
@@ -261,9 +286,7 @@ SINNVOLLE BELASTUNG
 
 Wenn nur ein Satz Dachträger montiert ist, sollte die Ladung nach Möglichkeit auf dem vorderen Bettkastendeckel liegen. Wenn eine Dachbox montiert ist, sollte sie auf dem hinteren Bettkastendeckel angebracht werden, damit sie in ihrer Position bleiben kann, wenn der Camper ausgeklappt ist. Stellen Sie sicher, dass das Gewicht und das Gleichgewicht der Anhängerbeladung beibehalten werden, wenn Sie eine Dachbox am Heck des Anhängers verwenden, um negative Auswirkungen auf das Fahrverhalten des Anhängers zu vermeiden. Achten Sie stets darauf, dass Sie die maximale Ladekapazität eines Trägers, einer Dachbox oder der Dachträger nicht überschreiten. Weitere Informationen finden Sie im Abschnitt über das Tragen von Dachlasten.
 
-___
-
-#### ANSCHLEPPEN
+# ANSCHLEPPEN
 
 Der Fahrer des Zugfahrzeugs muss sicherstellen, dass sein Führerschein für das Ziehen des OPUS® Wohnmobils gültig ist. Bitte beachten Sie dazu die folgende Internetadresse: www.gov.uk/towing-with-car
 
@@ -287,13 +310,13 @@ www.ntta.co.uk
 
 ![AA-Logo](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-11-5.png)
 
-___
 
-### AUFBAUEN.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/uhCLIa6azqA)
 
-___
+# AUFBAUEN.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/uhCLIa6azqA)
 
-#### ANFANGSSCHRITTE
+
+
+## ANFANGSSCHRITTE
 
 **BITTE VERGEWISSERN SIE SICH, DASS IHR AIR OPUS VOR DEM ERSTEN GEBRAUCH "BEWITTERT" WURDE. EINZELHEITEN DAZU FINDEN SIE IM ABSCHNITT "BEWITTERUNG "**
 
@@ -373,9 +396,9 @@ SICHERN SIE DAS OBERE ENDE DES BEINES MIT DEM ZUGSTIFT
 ![Ausgepackter Innenraum](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-14-2.png)  
 INNENRAUM HERUNTERGEPACKT
 
-___
 
-#### ZELT AUFBLASEN
+
+## ZELT AUFBLASEN
 
 **BITTE STELLEN SIE SICHER, DASS DIE TÜR UND DIE FENSTER DES LUFTZELTES GESCHLOSSEN SIND, BEVOR SIE DAS ZELT AUFSPANNEN.
 
@@ -436,9 +459,9 @@ ABSCHLIESSENDES ABSPANNEN
 
 **![](https://www.opuscamper.co.uk/wp-content/uploads/2021/11/folding.jpg)**
 
-___
 
-#### KÜCHENBEREICH
+
+## KÜCHENBEREICH
 
 1\. Setzen Sie das Kochfeld so auf den Küchenunterschrank, dass es auf beiden Seiten der beiden in den Sockel integrierten Klammern sitzt. Befestigen Sie das Gerät mit den Clips an der Plattform.
 
@@ -493,9 +516,9 @@ POSITION DES KÜHLSCHRANKS
 
 **Die 12-V-Steckdose, die sich im Inneren dieser Einheit befindet, versorgt die Kühlbox nur während der Fahrt, wenn das Zugfahrzeug die 13-poligen (oder zwei 7-poligen) Steckdosen verwendet. DIESE 12-V-BUCHSE WIRD NUR BETRIEBEN, WÄHREND DER MOTOR DES ZUGFAHRZEUGS LÄUFT UND IST NICHT BETRIEBLICH ODER STROMVERSORGEND, WENN DAS WOHNMOBIL VON EINEM LÄUFTENDEN FAHRZEUG ABGETRENNT WIRD UND DARF NUR ALS KÜHLENBUCHSE VERWENDET WERDEN.**
 
-___
 
-#### CLUB-LOUNGE
+
+## CLUB-LOUNGE
 
 ![Positionierte Kissen für den Lounge-Bereich](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-18-1.png)  
 CLUB LOUNGE/SITZBEREICH VERPACKT
@@ -516,9 +539,9 @@ CLUB LOUNGE/SITZBEREICH VERPACKT
 
 Der Hauptaufbau des Wohnmobils ist nun abgeschlossen. In den Abschnitten über die Wasser-, Gas- und Elektrosysteme wird die Verwendung und Funktion der einzelnen Komponenten ausführlich beschrieben.
 
-___
 
-#### ZUSATZBETT
+
+## ZUSATZBETT
 
 Der Sitzbereich im Inneren des OPUS® kann zu einem zusätzlichen Bett umgebaut werden, siehe Diagramme.
 
@@ -544,11 +567,11 @@ FERTIGE EINRICHTUNG
 
 **SIEHE ABSCHNITT KONDENSATION UND BELÜFTUNG**
 
-___
 
-### WASSERSYSTEM.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/s-sJbsthWBQ)
 
-___
+# WASSERSYSTEM.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/s-sJbsthWBQ)
+
+
 
 **WICHTIG! FÜR DEN BETRIEB DER WASSERPUMPE IST EINE FREIZEITBATTERIE ODER EIN NETZANSCHLUSS ERFORDERLICH.
 
@@ -608,11 +631,11 @@ I. Schließen Sie den Glasdeckel.
 
 **EINE KLEINE MENGE WASSER KANN VON DEN ANSCHLÜSSEN UND DEM ABWASSERSCHLAUCH VORHANDEN SEIN, DAHER IST EIN TUCH NÜTZLICH, UM ÜBERSCHÜSSIGES WASSER ZU ENTFERNEN.
 
-___
 
-### GASANLAGE.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/s-sJbsthWBQ)
 
-___
+# GASANLAGE.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/s-sJbsthWBQ)
+
+
 
 1\. Der OPUS® hat die Möglichkeit, 2 x 4,5 kg Butan- oder 2 x 3,9 kg Propangasflaschen (nicht im Lieferumfang enthalten) im vorderen Gasfach zu transportieren. Der OPUS® ist serienmäßig mit Gurten für eine Gasflasche ausgestattet. Wenn Sie eine zweite Gasflasche benötigen, wenden Sie sich bitte an OPUS®, um diese nachzurüsten.
 
@@ -669,11 +692,11 @@ Der Vertrag für die Flasche wird zwischen Ihnen und CALOR GAS geschlossen. www.
 
 Finden Sie Ihren örtlichen Fachhändler unter: www.calor.co.uk/find-a-stockist
 
-___
 
-### ELEKTRISCHE ANLAGE.   [![](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/s-sJbsthWBQ)
 
-___
+# ELEKTRISCHE ANLAGE.   [![](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/s-sJbsthWBQ)
+
+
 
 1\. Um den OPUS® an das 240-Volt-Netz anzuschließen, entriegeln Sie die Batteriefachklappe und stecken Sie ein geeignetes Verlängerungskabel ein. In der linken unteren Ecke des Batteriefachs befindet sich eine Aussparung, die es ermöglicht, die Klappe zu schließen und zu verriegeln, auch wenn das Kabel angeschlossen ist.
 
@@ -759,11 +782,11 @@ BATTERIETRANSFORMATOR
 
 **ÜBERLASTEN SIE NICHT DIE 240V 3PIN STECKDOSEN IHRES OPUS®. SIE KÖNNEN NICHT MEHR ALS 10 A AUF EINMAL LADEN, OHNE DASS DIE SCHUTZSCHALTER AUSGELÖST WERDEN (D.H. IHRE HEIZUNG ARBEITET MIT 10 A)**
 
-___
 
-### VERPACKUNG.   [![](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/X-S8c_DpK_c)
 
-___
+# VERPACKUNG.   [![](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/X-S8c_DpK_c)
+
+
 
 **WICHTIG! WENN SIE DAS WOHNMOBIL NASS ODER FEUCHT EINPACKEN MÜSSEN, STELLEN SIE SICHER, DASS SIE ES INNERHALB VON 24 STUNDEN ÖFFNEN UND VOLLSTÄNDIG TROCKNEN LASSEN.**
 
@@ -901,15 +924,15 @@ Ihr OPUS® ist nun einsatzbereit.
 
 **BITTE LESEN SIE DEN ABSCHNITT ÜBER AN- UND ABKUPPELN UND SICHERES ABSCHLEPPEN**
 
-___
 
-### SONNENVERDECK.   [![Video-Symbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/IFwDiR22HvI)
+
+# SONNENVERDECK.   [![Video-Symbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/IFwDiR22HvI)
 
 Sonderausstattung - OFC195B-194
 
-___
 
-#### TEILELISTE
+
+## TEILELISTE
 
 1.  Sonnendach
 2.  3 Stangen mit Stoßdämpfern
@@ -917,9 +940,9 @@ ___
 4.  Abspannleinen x 3
 5.  Heringe und Leiterbänder
 
-___
 
-#### MONTAGE
+
+## MONTAGE
 
 Versuchen Sie, einen relativ flachen Standort zu wählen. Vermeiden Sie Plätze, an denen das Land überschwemmt werden kann oder an denen Wasser herunterläuft. Stellen Sie NICHT direkt unter Bäumen auf. Ein Stellplatz in der Nähe einer Hecke oder Mauer kann Schutz vor Wind bieten. Vermeiden Sie Gebiete mit starker Umweltverschmutzung und Gebiete, in denen gerade gesprüht wird.
 
@@ -981,15 +1004,15 @@ SCHLAUFE ÜBER DEN ZACKEN DER STANGE LEGEN
 
 Fertiggestelltes Vordach (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-32-4.png)
 
-___
 
-### LUFTVORZELT.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/vU52fNw76Rc)
+
+# LUFTVORZELT.   [![Videosymbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png)](https://youtu.be/vU52fNw76Rc)
 
 Sonderzubehör - OFC195B-102
 
-___
 
-#### TEILELISTE
+
+## TEILELISTE
 
 1.  AIR Markise
 2.  Seitenteile (linke und rechte Seite)
@@ -1000,9 +1023,9 @@ ___
 7.  PE-Bodenplane x 1
 8.  Reparatursatz x 1
 
-___
 
-#### MONTAGE
+
+## MONTAGE
 
 Versuchen Sie, einen relativ flachen Standort zu wählen. Vermeiden Sie Standorte, an denen das Land überschwemmt werden kann oder an denen Wasser herunterläuft. Stellen Sie NICHT direkt unter Bäumen auf. Ein Stellplatz in der Nähe einer Hecke oder Mauer kann Schutz vor Wind bieten. Vermeiden Sie Gebiete mit starker Umweltverschmutzung und Gebiete, in denen gerade gesprüht wird.
 
@@ -1081,9 +1104,9 @@ INSTALLIERTE BODENPLANE
 
 ![LED-Streifen-Taschen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-35-2.png)
 
-___
 
-#### ABPACKEN
+
+## ABPACKEN
 
 **BITTE VERGEWISSERN SIE SICH, DASS SOWOHL DAS LUFTZELT ALS AUCH DAS VORZELT VOLLSTÄNDIG TROCKEN SIND, BEVOR SIE SIE ABBAUEN UND WEGPACKEN.
 
@@ -1099,15 +1122,15 @@ ___
 
 ![Fertiges Vorzelt](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-35-3.png)
 
-___
 
-### AIR WINDBREAK SET & GROSSE PLATTE.
+
+# AIR WINDBREAK SET & GROSSE PLATTE.
 
 Sonderausstattungen - OFC195C-190 und OFC195C-191
 
-___
 
-#### STÜCKLISTE - WINDSCHUTZSET
+
+## STÜCKLISTE - WINDSCHUTZSET
 
 1.  Kleine Platte (1200mm x2)
 2.  Große Platte (2400mm x2)
@@ -1115,17 +1138,17 @@ ___
 4.  Abspanngurte x16
 5.  Handpumpe
 
-___
 
-#### STÜCKLISTE - LUFTWINDSCHUTZ GROSSES PANEEL
+
+## STÜCKLISTE - LUFTWINDSCHUTZ GROSSES PANEEL
 
 1.  Große Platte (2400mm x1)
 2.  Stifte x6
 3.  Abspanngurte x4
 
-___
 
-#### MONTAGE
+
+## MONTAGE
 
 1\. Nehmen Sie den Air Windbreak aus dem Trage-/Aufbewahrungsbeutel.
 
@@ -1169,9 +1192,9 @@ DIE ENDEN JEDES PANEELS ABDÜBELN
 ![Abspannband eingeklipst](https://www.opuscamper.co.uk/wp-content/uploads/2021/09/UM-WB-6.png)  
 ABSPANNGURTE ZUR ZUSÄTZLICHEN ABSTÜTZUNG EINCLIPSEN
 
-___
 
-#### ABPACKEN
+
+## ABPACKEN
 
 **VERGEWISSERN SIE SICH, DASS DIE PANEELE DES WINDSCHUTZES VOLLSTÄNDIG TROCKEN SIND, BEVOR SIE SIE ABBAUEN UND WEGPACKEN.
 
@@ -1183,11 +1206,11 @@ ___
 
 4\. Falten Sie die Paneele und legen Sie sie zurück in die Transport-/Aufbewahrungstasche.
 
-___
 
-### DACHLAST TRAGEN.
 
-___
+# DACHLAST TRAGEN.
+
+
 
 An Ihrem OPUS® Camper können Dachträger angebracht werden, um die Vorteile der Lastentragplattform zu nutzen. Dachträger können direkt bei OPUS® Camper als Sonderzubehör erworben werden, ebenso wie Fahrrad- und Kajakträger.
 
@@ -1195,9 +1218,7 @@ Die verwendeten Dachträger benötigen Klemmfüße, die in die an den Dachdeckel
 
 DIE DACHTRÄGERFÜSSE WERDEN AUF DIE GRIFFSCHIENEN AN DEN RIPPEN DES DACHDECKELS GEKLEMMT.
 
-**DIE DACHPLATTEN DES OPUS® SIND NICHT TRAGFÄHIG. STELLEN SIE KEINE GEGENSTÄNDE/GEWICHTE AUF DIE DACHPLATTEN, DA DIES ZU SCHÄDEN AM DACH FÜHREN KANN.
-
-### WARNUNG](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-36-4.png)DECKEN SIND NICHT GEWICHTTRAGEND**
+**DIE DACHPLATTEN DES OPUS® SIND NICHT TRAGFÄHIG. STELLEN SIE KEINE GEGENSTÄNDE/GEWICHTE AUF DIE DACHPLATTEN, DA DIES ZU SCHÄDEN AM DACH FÜHREN KANN.**
 
 Überprüfen Sie die Dichtungen an den Dachpaneelen, um sicherzustellen, dass sich die Dichtungsmasse nicht von den Paneelen oder dem Rahmen des Wohnmobils gelöst hat; dies ist wichtig, um das Eindringen von Wasser in das Wohnmobil zu verhindern und das Dach wasserdicht zu halten; um diese Eigenschaft zu erhalten, stellen Sie sich NICHT auf die Paneele des OPUS®.
 
@@ -1239,13 +1260,13 @@ Die Fahrrad-/Kajakträger können in den folgenden Konfigurationen verwendet wer
 
 **WENN SIE MIT MONTIERTEN DACHTRÄGERN SCHLEPPEN, MÜSSEN SIE UNBEDINGT DIE DACHABDECKUNG VERWENDEN (SIE KANN FÜR DIE DAUER IHRES AUFENTHALTS AN ORT UND STELLE BLEIBEN, DA SICH DIE DECKEL DANK EINES KLETTVERSCHLUSSES IN DER MITTE ÖFFNEN LASSEN). WIRD DIES NICHT BEACHTET, KANN ES ZU EINEM ERHEBLICHEN WASSEREINTRITT KOMMEN, WENN DIE DICHTUNG BEIM EINPACKEN BESCHÄDIGT WURDE (ODER WENN SIE DURCH DEN NORMALEN GEBRAUCH BESCHÄDIGT ODER ZERRISSEN WURDE). DIE STANDARDMÄSSIGE DACHABDECKUNG SOLLTE NACH DER REISE WIEDER ANGEBRACHT WERDEN, NACHDEM DER OPUS® FÜR DIE LAGERUNG INSPIZIERT WURDE. DACHTRÄGER ÜBER BEIDE DECKEL (1 SATZ) DACHTRÄGER AUF EINEM/BEIDEN DECKELN (1/2 SÄTZE)**
 
-___
 
-### LAGERUNG & WARTUNG.
 
-___
+# LAGERUNG & WARTUNG.
 
-#### LAGERUNG
+
+
+## LAGERUNG
 
 **DER OPUS® CAMPER DARF NICHT IN EINEM NASSEN ODER FEUCHTEN INNENRAUM GELAGERT WERDEN. WENN DAS AUSPACKEN BEI NÄSSE ODER FEUCHTIGKEIT UNVERMEIDLICH WAR, MUSS DER CAMPER INNERHALB VON 24 STUNDEN GEÖFFNET UND INNEN UND AUSSEN (ZELT) VOLLSTÄNDIG GETROCKNET WERDEN, BEVOR ER WIEDER EINGEPACKT WIRD (BITTE STELLEN SIE SICHER, DASS DIES AUCH UNTER DEN FENSTERN GESCHIEHT) UND UNTER DER MITGELIEFERTEN DACHPLANE GELAGERT WIRD. BITTE DENKEN SIE AUCH AN IHRE MARKISE/VORDACHPLANE.
 
@@ -1267,9 +1288,9 @@ Wenn eine Freizeitbatterie eingebaut ist, stellen Sie bitte sicher, dass diese s
 
 Stellen Sie sicher, dass die Wasser- und Abfallbehälter nach jedem Gebrauch geleert werden und keine Flüssigkeiten enthalten, wenn sie gelagert werden.
 
-___
 
-#### ZURÜCK AUF DIE STRASSE
+
+## ZURÜCK AUF DIE STRASSE
 
 Vergewissern Sie sich, dass Ihr Wohnmobil und das Zubehör straßentauglich sind und halten Sie sich an alle örtlichen Gesetze.
 
@@ -1281,9 +1302,9 @@ Das Fahrwerk und die Gasanlage Ihres OPUS® Wohnmobils sollten jährlich von ein
 
 Das entsprechende Handbuch trägt den Titel "BPW Wartungs- und Betriebsanleitung - Leichte Anhänger 550kg-3500kg".
 
-___
 
-#### AUFBLASBARE TECHNOLOGIE
+
+## AUFBLASBARE TECHNOLOGIE
 
 Die in Ihrem AIR OPUS® verwendete Technologie besteht aus aufblasbaren Blasen, die in einem speziell konstruierten grauen Schlauch aufbewahrt werden, der mit einer Haltehülse innerhalb des Zeltes/des Außenzeltes in Position gehalten wird. Die Reißverschlüsse an den grauen Schläuchen sind mit einem Stoffband befestigt und sollten nur geöffnet werden, wenn Sie eine Blase ersetzen oder reparieren müssen. Wenn Sie die Bänder, mit denen die Reißverschlüsse befestigt sind, entfernen, stellen Sie bitte sicher, dass Sie die Reißverschlüsse mit den Bändern in geschlossener Position sichern, bevor Sie sie wieder aufblasen.
 
@@ -1297,11 +1318,11 @@ Bitte beachten Sie, dass es notwendig sein kann, den Luftdruck in Ihren AIR-Schl
 
 Ihrem AIR-Zelt liegt ein Reparaturset bei, das einen Notfallflicken für die Reparatur kleiner Löcher in der Blase enthält.
 
-___
 
-#### WETTERBEDINGUNGEN
 
-##### GEWEBE
+## WETTERBEDINGUNGEN
+
+### GEWEBE
 
 Ihr AIR OPUS® Zelt wurde aus einem Polyester-/Baumwollgewebe hergestellt. Vor der ersten Verwendung eines Polyester/Baumwoll-Gewebes ist es wichtig, dass das Zelt bewittert wird. Blasen Sie das AIR-Zelt gemäß den Aufblasanweisungen auf, wenn Regen zu erwarten ist. Wenn die Baumwolle zum ersten Mal nass wird, schließt sich das Baumwollgewebe. Es gibt keine vorgegebene Zeit für die Abwitterung, also seien Sie bitte nicht überrascht/besorgt, wenn bei den ersten Regenfällen ein wenig Wasser durch die Zeltplane und die Nähte dringt.
 
@@ -1319,13 +1340,13 @@ Die Reißverschlüsse sollten mit Vorsicht behandelt werden. Verwenden Sie beim 
 
 Bitte denken Sie daran, dass Ihr AIR-Zelt eine temporäre Konstruktion aus Naturfasern ist. Bitte beachten Sie, dass die Lebensdauer von Faserprodukten, die im Außenbereich verwendet werden, aufgrund von UV-Strahlung oder saurem Regen verkürzt sein kann. Eine Verfärbung des Gewebes kann ein erster Hinweis darauf sein, dass Ihr Zelt angegriffen wurde. Um Schäden durch UV-Strahlung zu vermeiden, sollten Sie Ihr AIR OPUS® möglichst in einem schattigen Bereich aufstellen und direkte Sonneneinstrahlung vermeiden. Bitte beachten Sie, dass eine kontinuierliche Exposition ein größeres Problem darstellt als eine stoßweise Exposition, da der UV-Angriff vom Ausmaß und Grad der Exposition abhängt. Gewebe können durch längere Sonneneinstrahlung geschwächt werden, und die Verwendung über einen längeren Zeitraum bei starker Sonneneinstrahlung wird bald zu einer Verschlechterung führen. UV-Schäden sind nicht durch die AIR OPUS® Garantie abgedeckt. Die Garantie gilt nicht für dauerhaft oder zu Ausstellungszwecken genutzte Zelte.
 
-##### VERWITTERUNG DES ZUM NÄHEN VERWENDETEN SPEZIALGARNS
+### VERWITTERUNG DES ZUM NÄHEN VERWENDETEN SPEZIALGARNS
 
 Ihr AIR OPUS® Zelt wurde mit einem speziellen Faden hergestellt, der sich ausdehnt und aufquillt, um die beim Nähen entstandenen Löcher zu schließen. Der Faden quillt und dehnt sich bei Nässe aus. Es kann ein paar Mal dauern, bis sich die Löcher vollständig schließen.
 
-___
 
-#### PFLEGE FÜR IHR ZELT
+
+## PFLEGE FÜR IHR ZELT
 
 Das Zelt Ihres OPUS® ist aus Poly-Baumwolle, einem leinwandartigen Material, gefertigt. Dies hat viele Vorteile, denn es ist atmungsaktiv und sorgt für einen kühleren Innenraum bei warmem/heißem Wetter und für einen wärmeren Innenraum bei kühleren Wetterbedingungen.
 
@@ -1357,7 +1378,7 @@ Aufgrund der Beschaffenheit des Zeltes ist es möglich, dass bei den ersten Eins
 - Vermeiden Sie scharfe Gegenstände in der Nähe der Zeltplane; scharfe/spitze Gegenstände und Stangen sollten auf dem Boden und nicht im Zelt gelagert werden, um Schäden zu vermeiden.
 - Wenn der Camper verpackt ist, stellen Sie sicher, dass nichts herausragt und dass eine ordnungsgemäße Abdichtung am Rand und in der Mitte erreicht wird (Kontakt von Dichtung zu Dichtung).
 
-##### SPEZIALISIERTE LEINWANDPRODUKTE
+### SPEZIALISIERTE LEINWANDPRODUKTE
 
 1.  Kampa Nahtabdichtung
 2.  Grangers Fabsil Imprägniermittel
@@ -1366,9 +1387,9 @@ Aufgrund der Beschaffenheit des Zeltes ist es möglich, dass bei den ersten Eins
 
 ![Reinigungsmittel](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-42-1.png)
 
-___
 
-#### AUSSENPFLEGE
+
+## AUSSENPFLEGE
 
 - Untersuchen Sie die Außenverkleidung Ihres OPUS® einschließlich des Daches (Bettdeckel) auf Schäden und Risse.
 - Überprüfen Sie die Dichtungsmasse um die Verkleidungen herum, um sicherzustellen, dass die Karosserieverkleidungen und Außenelemente, wie z. B. der Batteriekasten, ausreichend verklebt sind. Dies ist besonders wichtig nach einem Aufprall/Unfall, um die Unversehrtheit der Karosserie gegen eindringendes Wasser zu gewährleisten.
@@ -1386,9 +1407,9 @@ ___
 - Die Dachabdeckung MUSS immer dann angebracht werden, wenn der Camper nicht benutzt/gelagert wird.
 - Die Abdeckung kann beim Aufbau des Wohnmobils auf dem Dach verbleiben; sie muss lediglich ordentlich zur Vorderseite des Wohnmobils hin gefaltet/gerollt werden und auf den Gas-/Stauraum gelegt werden.
 
-___
 
-#### INNENPFLEGE
+
+## INNENPFLEGE
 
 - Alle Teile im Camper sollten sauber gehalten werden, um eine lange Lebensdauer zu gewährleisten; Flecken können mit einem kleinen Tuch abgewischt werden. Ein feuchtes Tuch reicht aus, um die meisten Flecken zu entfernen.
 - Wischen Sie verschüttete Flüssigkeiten und Wasserreste auf den Bauteilen sofort ab, um Schäden an den Bauteilen oder anderen Teilen des Wohnmobils, wie z. B. der Elektrik, zu vermeiden.
@@ -1405,9 +1426,9 @@ ___
 
 Je nachdem, mit welchem optionalen Zubehör Ihr OPUS® ausgestattet ist, finden Sie in der mittleren Schublade des Küchenbereichs alle relevanten Unterlagen/Handbücher dazu. Bitte lesen Sie alle relevanten Informationen in diesen Bedienungsanleitungen, um eine korrekte Nutzung zu gewährleisten.
 
-___
 
-#### VERMEIDUNG VON FARBÜBERTRAGUNGEN
+
+## VERMEIDUNG VON FARBÜBERTRAGUNGEN
 
 Die OPUS-Innenausstattung enthält jetzt eine Mischung aus technischen Stoffen mit kontrastierenden Farben. Einige der dunkleren Stoffe sind gefärbt, was zu einer Übertragung auf hellere Stoffe führen kann. Dies ist umso wahrscheinlicher, wenn der OPUS eingepackt ist und die Stoffe über längere Zeit bei unterschiedlichen Temperaturen hart aneinander gepresst werden.
 
@@ -1419,9 +1440,9 @@ Alternativ können Sie ein helles, farbechtes Material (z. B. eine Sofadecke ode
 
 Sollte die Farbe von dunklem auf helles Material übergehen, möchten wir Ihnen versichern, dass dies weder die Langlebigkeit noch die Funktionalität des Materials beeinträchtigt, aber wir wissen, dass das Erscheinungsbild nicht sehr wünschenswert ist und am besten vermieden werden sollte.
 
-___
 
-#### ERSATZRAD & TRÄGER
+
+## ERSATZRAD & TRÄGER
 
 **Optionales Extra**
 
@@ -1434,9 +1455,9 @@ Er ist mit einer 19-mm-Sechskantschraube befestigt, die mit einem Standard-Radsc
 Position des Reserverads (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-44-1.png)  
 POSITION DES RESERVERADS
 
-___
 
-#### KONDENSATION
+
+## KONDENSATION
 
 Kondenswasserbildung muss sowohl beim OPUS Camper als auch beim Vollvorzelt (Sonderausstattung) berücksichtigt werden.
 
@@ -1473,23 +1494,23 @@ Tipps:
 - Schalten Sie die Heizung aus, wenn Sie sie nicht benötigen - entgegen der landläufigen Meinung trägt dies nicht zum Austrocknen von Kondenswasser bei, da warme Luft mehr Feuchtigkeit aufnehmen kann.
 - Stellen Sie Ihren Stellplatz nicht in der Nähe von Wasser auf - in der Nähe von Flüssen, Seen und Teichen ist die Luftfeuchtigkeit immer höher.
 
-___
 
-#### BELÜFTUNG
+
+## BELÜFTUNG
 
 Die Belüftung ist wichtiger, als allgemein angenommen wird - Ihr OPUS® Wohnmobil/Vorzelt hat mehrere Fenster/Ventile, die geöffnet werden können, um die Belüftung zu verbessern. Eine bessere Belüftung führt zu einer geringeren Kondensation.
 
 **Das Fahrwerk und die Gasanlage Ihres OPUS® Wohnmobils sollten jährlich von einer qualifizierten Fachwerkstatt überprüft werden, siehe www.approvedworkshops.co.uk**
 
-___
 
-### FEHLERSUCHE.
 
-___
+# FEHLERSUCHE.
 
-#### ELEKTRIK
 
-##### LAUFLICHT
+
+## ELEKTRIK
+
+### LAUFLICHT
 
 Wenn Sie Probleme mit den Fahrlichtern haben:
 
@@ -1512,7 +1533,7 @@ Vergewissern Sie sich, dass der 13-polige Stecker an Ihrem Fahrzeug ordnungsgem�
 
 \*Das CAN-Bus-System des Zugfahrzeugs sendet kontinuierlich Impulse an die Anhängersteckdosen, um die Anwesenheit eines Anhängers zu erkennen. Dies ist bei herkömmlicher Glühlampenbeleuchtung in Ordnung, aber je nach Empfindlichkeit des CAN-BUS-Systems des Zugfahrzeugs kann es sein, dass es die moderne LED-Beleuchtung, die am OPUS verwendet wird, nicht erkennt. Das liegt daran, dass LED-Glühbirnen sehr wenig Strom verbrauchen (deshalb sind sie auch so effizient). Das bedeutet, dass manche Fahrzeuge nicht erkennen können, dass der OPUS angeschlossen ist. Die Lösung besteht darin, die Stromaufnahme einer herkömmlichen Glühlampenbeleuchtung zu simulieren, damit das Zugfahrzeug erkennt, dass der OPUS tatsächlich angekoppelt ist.
 
-##### HEIZUNG
+### HEIZUNG
 
 Die Heizung funktioniert nur bei 240V/Netzstrom.
 
@@ -1522,25 +1543,25 @@ Lassen Sie die Heizung niemals über Nacht, während des Schlafs, unbeaufsichtig
 
 Blockieren Sie niemals die Heizung.
 
-##### KÜHLSCHRANK
+### KÜHLSCHRANK
 
 Der Kühlschrank wird über das Stromnetz betrieben; die spezielle 12-V-Steckdose des Kühlschranks kann verwendet werden (bei kompatibler Elektrik des Zugfahrzeugs), um den Kühlschrank während des Transports kühl zu halten.
 
 Der Kühlschrank sollte nicht mit Gas im Camper oder in einem geschlossenen Raum betrieben werden.
 
-##### 12v & SICHERUNGEN
+### 12v & SICHERUNGEN
 
 Wenn eine der 12-V-Steckdosen nicht funktioniert, ist möglicherweise die Sicherung für die 12-V-Geräte durchgebrannt; überprüfen und ersetzen Sie sie gegebenenfalls.
 
 Wenn eine LED-Leuchte oder ein polaritätsempfindliches Gerät an den 12-V-Steckdosen nicht funktioniert, aber funktionsfähig ist, muss die Polarität der betroffenen Steckdose umgekehrt werden. Bitte kontaktieren Sie uns unter 01473 601200 für eine Beratung.
 
-##### NETZSTECKDOSEN & SCHUTZSCHALTER
+### NETZSTECKDOSEN & SCHUTZSCHALTER
 
 Wenn die Netzsteckdosen nicht funktionieren, überprüfen Sie den Schutzschalter unter Sitz 1 (Seite 16), um festzustellen, ob der Schalter ausgelöst wurde; setzen Sie ihn gegebenenfalls zurück.
 
 Wenn der Schutzschalter durch einen Fehler ausgelöst wurde, der nicht behoben wurde (der Schalter löst nach dem Zurücksetzen aus), muss dies weiter untersucht werden.
 
-##### STECKDOSEN UND VERLÄNGERUNGEN
+### STECKDOSEN UND VERLÄNGERUNGEN
 
 Verlängerungssteckdosen können bei Bedarf am 12-V- und 240-V-Stromnetz verwendet werden, müssen aber für die erforderliche Funktion/Last ausreichend dimensioniert sein, um eine Strom-/Brandgefahr zu vermeiden.
 
@@ -1548,7 +1569,7 @@ Wenn ein Problem mit einer Steckdose oder einem elektrischen Gerät auftritt, da
 
 Vermeiden Sie Verkettungen von Verlängerungen und stellen Sie sicher, dass die Nennleistung (insgesamt) der verwendeten Geräte die angegebene Nennleistung der Verlängerungssteckdose/des Wohnmobils nicht überschreitet.
 
-##### BATTERIE, AUFLADEN UND ANSCHLIESSEN
+### BATTERIE, AUFLADEN UND ANSCHLIESSEN
 
 Die Batterie wird während des Transports wieder aufgeladen, wenn kompatible elektrische Geräte verwendet werden. Ist dies nicht der Fall oder wird der Camper über einen längeren Zeitraum gelagert, sollte ein alternatives Ladegerät verwendet werden, um die Batterie in einem funktionsfähigen Zustand zu halten.
 
@@ -1556,15 +1577,15 @@ Die 12-Volt-Elektrik funktioniert möglicherweise nicht richtig oder überhaupt 
 
 Bitte beachten Sie, dass die grüne LED-Leuchte auf diesem Bedienfeld nur dann leuchtet, wenn das Fahrzeug an das Stromnetz angeschlossen ist, d. h. wenn die Batterie geladen wird.
 
-___
 
-#### LUFT ZELT/LEINWAND
 
-##### TEILWEISES ABLASSEN DER LUFT AUS DEM ZELT
+## LUFT ZELT/LEINWAND
+
+### TEILWEISES ABLASSEN DER LUFT AUS DEM ZELT
 
 Vergewissern Sie sich, dass Sie das Einlassgehäuse nicht im weißen Hauptventil gelassen haben. Dieses muss entfernt und die Kappe wieder aufgesetzt werden. Vergewissern Sie sich, dass alle externen Ventile vollständig geschlossen sind. Wenn die Luft nicht abgelassen wird, achten Sie bitte auf Luftverlust an den internen Blasenventilen.
 
-##### LUFTSCHLAUCH/BLASE IM AUFGEBLASENEN ZUSTAND WECHSELN
+### LUFTSCHLAUCH/BLASE IM AUFGEBLASENEN ZUSTAND WECHSELN
 
 Es wird empfohlen und in der Gebrauchsanweisung angegeben, dass alle internen Ventile geschlossen sind, wenn Ihr AIR OPUS® Zelt und Vorzelt in Gebrauch ist. Wenn dies der Fall ist, ist der defekte AIR-Schlauch/die defekte Blase bereits isoliert und die Auswirkungen der defekten Blase sind minimal. Bitte überprüfen Sie, ob dies der Fall ist. Falls nicht, schließen Sie bitte alle internen Ventile.
 
@@ -1579,7 +1600,7 @@ Es wird empfohlen und in der Gebrauchsanweisung angegeben, dass alle internen Ve
 9.  Stecken Sie den grauen Schlauch wieder in die Außenzelt-Halteschale.
 10.  Verbinden Sie den Schlauch (die zuvor abgetrennte defekte Blase und den Schlauch) mit dem Rest des AIR-Systems - schließen Sie den Schlauch an das schwarze Ventil an. Dies kann eine kurze Zeit des Schiebens und Manövrierens in Anspruch nehmen. Achten Sie darauf, dass der Schlauch vollständig in das schwarze Ventil eingeführt ist, da das AIR-System sonst nicht funktioniert.
 
-##### AUSWECHSELN DES LUFTSCHLAUCHS/DER LUFTBLASE IM ENTLEERTEN ZUSTAND
+### AUSWECHSELN DES LUFTSCHLAUCHS/DER LUFTBLASE IM ENTLEERTEN ZUSTAND
 
 1.  Lokalisieren Sie vorsichtig den defekten Balken und achten Sie darauf, dass Sie die Reißverschlüsse und andere Komponenten Ihres AIR-Zeltes nicht beschädigen.
 2.  Trennen Sie das Ende des Schlauchs ab, der die defekten Balken mit dem Rest des AIR-Systems verbindet.
@@ -1596,7 +1617,7 @@ Es wird empfohlen und in der Gebrauchsanweisung angegeben, dass alle internen Ve
 13.  Wenn Sie sich vergewissert haben, dass die Ersatzblase richtig eingesetzt wurde und der Schlauch vollständig in das Ventil eingeführt ist, ist Ihr AIR OPUS® einsatzbereit.
 14.  Blasen Sie Ihr AIR OPUS® gemäß der mitgelieferten Aufblasanleitung auf. Wenn es irgendwelche Probleme mit dem Ersatzventil gibt, isolieren Sie es und stellen Sie sicher, dass die Blase richtig eingesetzt ist und der Schlauch vollständig in das Ventil eingeführt ist (um sicherzustellen, dass keine Luft austritt).
 
-##### PUMPE
+### PUMPE
 
 - Pumpe funktioniert nicht
     - Prüfen Sie, ob das 12-V-System Ihres AIR OPUS® eingeschaltet ist.
@@ -1612,7 +1633,7 @@ Es wird empfohlen und in der Gebrauchsanweisung angegeben, dass alle internen Ve
     - Vergewissern Sie sich, dass Ihre AIR OPUS® Freizeitbatterie vollständig geladen ist.
     - Vergewissern Sie sich, dass der Verlängerungsschlauch der Pumpe richtig befestigt ist, da die Pumpe bei einem Luftaustritt nicht den richtigen Druck erreichen kann.
 
-##### VORHANDSCHIENE
+### VORHANDSCHIENE
 
 Die Vorzeltschiene ist die Verankerung für die Zeltplane am Camperaufbau.
 
@@ -1620,25 +1641,25 @@ Sollte sich das Zelt an der Schiene verfangen oder verhaken, gehen Sie die Schri
 
 Es ist normal, dass sich der Markisenwulst innerhalb der Schiene bewegen kann, sofern die Bewegung nicht behindert wird; spannen Sie das Zelt NICHT zu stark und zwingen Sie das Zelt NIEMALS, sich entlang der Schiene zu bewegen, prüfen Sie das Hindernis und beheben Sie es, bevor Sie den Markisenwulst bewegen.
 
-##### RIPPEN & RÄUME
+### RIPPEN & RÄUME
 
 Kleine Löcher, Risse und Sprünge können mit einem geeigneten Zeltreparaturset oder Dichtungsmittel repariert werden. Führen Sie immer ein Set für Notfälle mit sich.
 
 Größere Schäden können die Dienste eines Fachmanns erfordern. Im Zweifelsfall oder wenn Sie Hilfe benötigen, kontaktieren Sie uns bitte unter 01473 601200.
 
-##### NÄHTE UND KLETTVERSCHLUSS
+### NÄHTE UND KLETTVERSCHLUSS
 
 Vermeiden Sie es, die Klettbänder, mit denen das Gestänge am Zelt befestigt ist, zu strapazieren, da dies die Nähte des Zeltes beschädigen und/oder das Eindringen von Wasser durch vergrößerte Löcher begünstigen kann. Wenn die Nähte beschädigt sind, müssen sie so schnell wie möglich repariert werden. Verwenden Sie bei kleinen Schäden ein Stoffreparatur-/Nähset, wenden Sie sich andernfalls an einen professionellen Service oder kontaktieren Sie uns.
 
 Wenn eine Beschädigung aufgetreten ist oder die Nähte des Zeltes repariert wurden, sollten Sie einen "Nahtdichter" oder ein entsprechendes Reparaturset verwenden, um Nadellöcher oder Nahtlücken zu versiegeln und das Zelt wasserdicht zu halten.
 
-##### BUNGEES & KNOPFKLAMMERN
+### BUNGEES & KNOPFKLAMMERN
 
 Die Bungees des Zelts sind aus strapazierfähigem, elastischem Material und halten sehr lange, wenn sie nicht überstrapaziert oder missbraucht werden.
 
 Wenn die Bungees beschädigt werden, können sie durch eine geeignete Alternative ersetzt werden; je nach beschädigtem Abschnitt kann es erforderlich sein, sie zu nähen oder einen Knoten an den Enden des Bungees anzubringen, um es im Zelt zu halten.
 
-##### FLECKEN
+### FLECKEN
 
 Hartnäckige Flecken können mit Spezialprodukten wie Fenwicks Reinigungsmittel für Vorzelte und Zelte entfernt werden.
 
@@ -1646,7 +1667,7 @@ Wenn Sie ein neues/unbekanntes Produkt verwenden, probieren Sie es an einer klei
 
 Je nach Ort und Ausmaß des Flecks muss der Camper möglicherweise aufgestellt werden, um das Zelt zu reinigen. Möglicherweise muss das Zelt nach der Reinigung erneut imprägniert werden, siehe Abschnitt auf der folgenden Seite.
 
-##### NACHIMPRÄGNIERUNG & NAHTVERSIEGELUNG
+### NACHIMPRÄGNIERUNG & NAHTVERSIEGELUNG
 
 Das Nachimprägnieren ist ein Teil der Wartung des Zeltes, um die Wasserabfluss-Eigenschaften nach längerer Nutzung und Belastung wiederherzustellen. Die Häufigkeit des Nachimprägnierens hängt von der Nutzung des Wohnmobils ab.
 
@@ -1654,7 +1675,7 @@ Eine Nachimprägnierung kann auch erforderlich sein, wenn das Zelt mit bestimmte
 
 Zu beachten sind Bereiche, in denen Zeltteile miteinander verbunden sind oder Belastungen ausgesetzt sind, z. B. Nähte und Säume. Zu diesem Zweck kann Grangers Fabsil Waterproofer oder eine geeignete Alternative verwendet werden.
 
-##### WASSEREINTRITT
+### WASSEREINTRITT
 
 Wenn es zu Wassereinbrüchen/Leckagen kommt, die nicht auf Kondenswasser oder unsachgemäße Verpackung zurückzuführen sind, ermitteln Sie die Stelle(n) und die möglichen Ursachen für das Leck.
 
@@ -1662,13 +1683,13 @@ Es ist möglich, dass kleinere Leckagen darauf zurückzuführen sind, dass das S
 
 Wenn die Undichtigkeit auf Löcher, Risse oder (sichtbare) Beschädigungen zurückzuführen ist, reparieren Sie das Zelt wie im Abschnitt Risse und Beschädigungen beschrieben. Andernfalls wenden Sie sich an uns oder einen Fachmann, um sich beraten zu lassen.
 
-##### REISSVERSCHLÜSSE
+### REISSVERSCHLÜSSE
 
 Wenn sich das Vorzelt nur schwer mit dem Reißverschluss am Zelt oder an den Seitenschürzen usw. befestigen lässt, prüfen Sie den Reißverschluss/die Reißverschlüsse auf Beschädigungen oder Verstopfungen. Ziehen Sie den Reißverschluss niemals mit Gewalt auf.
 
 Wenn die Reißverschlüsse am Zeltteil und am Vorzeltteil/Seitenschürzen unterschiedlich sind, sind möglicherweise Reißverschlussadapter erforderlich. Kontaktieren Sie uns unter 01473 601200 für weitere Informationen.
 
-#### HOB UNIT
+## HOB UNIT
 
 Wenn das Kochfeld nicht richtig funktioniert:
 
@@ -1682,7 +1703,7 @@ Vergewissern Sie sich bei jedem Wechsel der Gasflasche, dass diese richtig anges
 
 Befolgen Sie die Anweisungen/Empfehlungen des Herstellers für alle Probleme, die das Gas-Kochfeld selbst betreffen.
 
-#### SPÜLE/WASSERVERSORGUNG
+## SPÜLE/WASSERVERSORGUNG
 
 Wenn die Wasserversorgung richtig eingestellt ist, sollte Frischwasser aus dem Wasserhahn und Abwasser aus dem externen Abfluss fließen.
 
@@ -1690,7 +1711,7 @@ Wenn kein Wasser aus dem Wasserhahn fließt, prüfen Sie die Schläuche und Ansc
 
 Der Abwasserschlauch der Spüle sollte an die dafür vorgesehene Öffnung am Küchenunterschrank angeschlossen werden, der Auslass (an der Außenseite) des Wohnmobils sollte ebenfalls geöffnet werden, um eine Verstopfung oder einen Rückfluss des Wassers zu verhindern. Der mitgelieferte gewundene Schlauch sollte ebenfalls an den Auslass und in einen geeigneten Behälter oder Abfluss angeschlossen werden.
 
-##### PUMPE & DURCHFLUSS
+### PUMPE & DURCHFLUSS
 
 Die Pumpe sollte in einen geeigneten, mit Wasser gefüllten Behälter getaucht werden. Lassen Sie die Pumpe NIEMALS trocken laufen.
 
@@ -1702,7 +1723,7 @@ Je nach Standort und Wasserdurchfluss muss der Druck möglicherweise angepasst w
 
 Weitere Informationen finden Sie im Abschnitt Wassersystem.
 
-#### REIFEN/RÄDER
+## REIFEN/RÄDER
 
 Wenn die Räder Ihres Wohnmobils ausgetauscht werden müssen, denken Sie bitte daran, die Schrauben mit dem richtigen Drehmoment anzuziehen. Bei Leichtmetallrädern beträgt die korrekte Einstellung 130 Nm und bei Stahlrädern 88 Nm.
 
@@ -1710,9 +1731,9 @@ Kontrollieren Sie regelmäßig und vor jeder Fahrt mit Ihrem OPUS® den Reifendr
 
 Wenn Sie die Option Reserverad und Träger gewählt haben, wird dieses immer in Form eines Stahlrades geliefert. Bitte beachten Sie, dass bei Verwendung des Reserverades die Drehmomenteinstellung geringer ist als bei den üblicherweise am OPUS® verwendeten Leichtmetallrädern.
 
-___
 
-### GARANTIE.
+
+# GARANTIE.
 
 FÜR GARANTIE- UND KUNDENDIENSTFRAGEN WENDEN SIE SICH BITTE IN ERSTER LINIE AN IHREN VERTRAGSHÄNDLER.
 
@@ -1762,9 +1783,9 @@ Diese Garantie ist nicht übertragbar.
 
 Registrieren Sie Ihre OPUS®-Garantie innerhalb von 14 Tagen nach Abholung online unter: [www.purpleline.co.uk/product-registration](https://www.purpleline.co.uk/product-registration)
 
-___
 
-### Kontakt
+
+# Kontakt
 
 Allgemeine Anfragen: [enquiries@opuscamper.co.uk](mailto:enquiries@opuscamper.co.uk)
 
