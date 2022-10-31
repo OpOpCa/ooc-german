@@ -1,2 +1,1 @@
-# ooc-german
-Offene OPUS Camper Community
+# Offene OPUS Camper Community
