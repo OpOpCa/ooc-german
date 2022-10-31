@@ -6,6 +6,12 @@ OFC195CAIR-UM-0921-Rev.J
 
 ___
 
+### WILLKOMMEN.
+
+Herzlichen Glückwunsch zum Kauf Ihres neuen OPUS® Wohnmobils.
+
+Vor Ihnen liegen Jahre voller unvergesslicher Erlebnisse. Machen wir Sie zunächst mit Ihrem neuen Faltcamper vertraut.
+
 #### Informationshinweise
 
 In diesem Handbuch finden Sie Abschnitte, die in zwei verschiedenen Farben und mit Symbolen hervorgehoben sind.
@@ -14,7 +20,7 @@ In diesem Handbuch finden Sie Abschnitte, die in zwei verschiedenen Farben und m
 
 **HINWEISE** Hier finden Sie wichtige Informationen, die Ihnen dabei helfen, Ihren OPUS® Camper in bestmöglichem Zustand zu erhalten.
 
-![Video-Symbol] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png) Dies zeigt an, dass ein begleitendes Video verfügbar ist. Wenn Sie dieses Symbol anklicken, werden Sie zu Youtube weitergeleitet.
+![Video-Symbol](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-2-1.png) Dies zeigt an, dass ein begleitendes Video verfügbar ist. Wenn Sie dieses Symbol anklicken, werden Sie zu Youtube weitergeleitet.
 
 Bitte beachten Sie vor dem ersten Einsatz die Hinweise zur korrekten Nutzung, Lagerung und "Verwitterung".
 
@@ -209,7 +215,7 @@ Wenn Ihr Anhänger mit einer Stabilisierungskupplung ausgestattet ist, stellen S
 
 6\. Lösen Sie die Stützradklemme, indem Sie den Griff gegen den Uhrzeigersinn drehen, und ziehen Sie das Stützrad nach oben, um die maximale Bodenfreiheit zu erreichen, und achten Sie darauf, dass das Rad zum Heck des OPUS® zeigt. Ziehen Sie die Stützradklemme fest.
 
-![Kupplungsgriff anheben] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-10-1.png)  
+![Kupplungsgriff anheben](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-10-1.png)  
 ANHEBEN DES KUPPLUNGSGRIFFS
 
 ![Stützradgriff anheben](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-10-2.png)  
@@ -297,7 +303,7 @@ Versuchen Sie, einen relativ ebenen Standort zu wählen. Vermeiden Sie Standorte
 
 **STEIGEN SIE ERST IN DEN OPUS® EIN, WENN DIE KURVENSTÜTZEN IN DIE RICHTIGE POSITION ABGESENKT WURDEN.
 
-[Handbremse anziehen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-12-1.png)  
+[Handbremse anziehen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-12-1.png)  
 HANDBREMSE ANZIEHEN
 
 ![Kurvenstabilisator aufziehen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-12-2.png)  
@@ -310,7 +316,7 @@ KURVE GLEICHMÄSSIG NACH UNTEN
 
 3\. Wenn Sie sich vergewissert haben, dass der OPUS® stabil und waagerecht steht, müssen Sie die vier Stützfüße des Bettkastens montieren. Die Beine sind austauschbar und jedes Bein kann an jeder der Halterungen angebracht werden. Die Beine werden in jeder Ecke des Rahmens aufbewahrt und sind zugänglich, indem Sie den D-Pin-Clip lösen und sie herausschieben.
 
-[D-Stift entfernen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-12-4.png)  
+[D-Stift entfernen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-12-4.png)  
 ENTFERNEN SIE DEN D-STIFT, UM DAS BEIN ZU LÖSEN.
 
 ![Sichern des Fußes mit D-Pin](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-12-5.png)  
@@ -346,7 +352,7 @@ LÖSEN SIE DIE KLAMMERN
 
 8\. Gehen Sie nun um den OPUS® herum und überprüfen Sie das Zelt, um sicherzustellen, dass das Zelttuch richtig in den Aluminiumkanälen liegt und kein Teil des Zeltes eingeklemmt oder verhakt ist.
 
-![Vordere Klappe öffnen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-13-6.png)  
+![Vordere Klappe öffnen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-13-6.png)  
 VORDECKEL ÖFFNEN
 
 ![Öffnen des hinteren Deckels](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-13-7.png)  
@@ -637,7 +643,7 @@ GASSCHLAUCHANSCHLUSS
 
 7\. Stellen Sie sicher, dass das Gasflaschenventil geschlossen ist, bevor Sie den OPUS® für den Transport oder die Lagerung verpacken.
 
-![Gasventil öffnen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-23-1.png)  
+![Gasventil öffnen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-23-1.png)  
 VENTIL AN DER FLASCHE ÖFFNEN
 
 ![Gashahn aufdrehen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-23-2.png)  
@@ -771,7 +777,7 @@ Bitte beachten Sie die folgenden Punkte:
 
 3\. Die beiden seitlichen Rückenlehnen können bei Bedarf in der zentralen hinteren Sitzablage verstaut werden (das Rückenkissen in voller Länge muss ggf. verschoben/angehoben werden).
 
-![Position der Sitzflächen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-27-1.png)  
+![Position der Sitzflächen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-27-1.png)  
 SITZFLÄCHEN BLEIBEN IN POSITION (1,2 & 3)
 
 ![Tischplatte und Stützbein entfernt](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-27-2.png)  
@@ -794,7 +800,7 @@ ABLAGE FÜR ZWEI SEITLICHE SITZLEHNEN (4 & 8)
 
 9\. Wenn Sie einen Kühlschrank haben, müssen Sie ihn für den Transport auf den Boden des Wohnmobils stellen, aber Sie können ihn an der dafür vorgesehenen 12-V-Steckdose angeschlossen lassen (die sich in der Einheit unterhalb des Kühlschranks befindet), so dass sein Inhalt während des Transports kühl gehalten werden kann, wenn ein 13-poliger oder ein 7-poliger Doppelstromanschluss am Zugfahrzeug verwendet wird.
 
-[Messing-Gasanschluss nach unten drücken] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-28-1.png)  
+[Messing-Gasanschluss nach unten drücken](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-28-1.png)  
 SOBALD DAS GAS ABGESTELLT IST, DRÜCKEN SIE DEN MESSINGSTUTZEN NACH UNTEN.
 
 ![Schlauch von der Küchenbasis abziehen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-28-2.png)  
@@ -950,7 +956,7 @@ STANGENVERLÄNGERUNG HINZUFÜGEN
 
 12\. Knüpfen Sie einen Überhandschlaufenknoten auf der gegenüberliegenden Seite des Verstellers
 
-![Überhandschlaufenknoten] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-32-1.png)  
+![Überhandschlaufenknoten](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-32-1.png)  
 BINDE EINEN ÜBERHANDSCHLAUFENKNOTEN
 
 ![Zinken in die Öse einführen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-32-2.png)  
@@ -1006,7 +1012,7 @@ Versuchen Sie, einen relativ flachen Standort zu wählen. Vermeiden Sie Standort
 
 3\. Nehmen Sie das AIR Vorzelt aus der Transport-/Aufbewahrungstasche.
 
-[Zelt aufblasen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-33-1.png)  
+[Zelt aufblasen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-33-1.png)  
 ZELT AUF KOPFHÖHE AUFBLASEN
 
 ![Vorzelt mit Reißverschluss am Zelt befestigen](https://www.opuscamper.co.uk/wp-content/uploads/2021/06/UM-33-2.png)  
@@ -1154,7 +1160,7 @@ PANEELE WIE GEWÜNSCHT ZUSAMMENZIPPEN
 
 11\. Die Anordnung der Paneele kann nach Belieben verändert, ergänzt und verschoben werden. Zusätzliche große Paneele sind zum Kauf erhältlich.
 
-Paneele anordnen] (https://www.opuscamper.co.uk/wp-content/uploads/2021/09/UM-WB-4.png)  
+Paneele anordnen](https://www.opuscamper.co.uk/wp-content/uploads/2021/09/UM-WB-4.png)  
 PANEELE NACH BEDARF ANORDNEN
 
 ![Plattenecke eingedübelt](https://www.opuscamper.co.uk/wp-content/uploads/2021/09/UM-WB-5.png)  
@@ -1704,4 +1710,76 @@ Kontrollieren Sie regelmäßig und vor jeder Fahrt mit Ihrem OPUS® den Reifendr
 
 Wenn Sie die Option Reserverad und Träger gewählt haben, wird dieses immer in Form eines Stahlrades geliefert. Bitte beachten Sie, dass bei Verwendung des Reserverades die Drehmomenteinstellung geringer ist als bei den üblicherweise am OPUS® verwendeten Leichtmetallrädern.
 
+___
 
+### GARANTIE.
+
+FÜR GARANTIE- UND KUNDENDIENSTFRAGEN WENDEN SIE SICH BITTE IN ERSTER LINIE AN IHREN VERTRAGSHÄNDLER.
+
+OPUS® gewährt auf das Wohnmobil für die Freizeitnutzung eine Garantie von 12 Monaten ab dem Tag der Abholung. Für die AIR-Schlauchtechnik gilt eine Garantiezeit von 24 Monaten ab diesem Datum.
+
+OPUS® übernimmt die Arbeits- und Ersatzteilkosten (Transport ausgeschlossen) für die im Rahmen dieser Garantie reparierten Waren, sofern:
+
+- Die Fehler sind ausschließlich auf Material- oder Verarbeitungsfehler zurückzuführen.
+- Die Anweisungen in der Bedienungsanleitung wurden zu jeder Zeit sorgfältig befolgt.
+- Es wurden keine nicht genehmigten Reparaturen durchgeführt.
+
+Nicht von der Garantie abgedeckt sind u. a. folgende Punkte oder Reparaturen
+
+- Defekte, die auf Verschleiß durch normalen Gebrauch zurückzuführen sind.
+- Defekte, die durch Missbrauch, Unfall, Sturm oder vorsätzliche Beschädigung entstanden sind.
+- Schäden, die durch unsachgemäße Lagerung oder Wartung entstanden sind.
+- Fahrlässigkeit oder Schäden, die durch nicht autorisierte Reparaturen entstanden sind.
+- Blasenschäden, einschließlich, aber nicht beschränkt auf übermäßiges Aufblasen, unnötiges Lösen der versiegelten Reißverschlüsse an den schwarzen Halterohren usw. Bitte beachten Sie, dass die aufblasbaren Blasen einem Verschleiß unterliegen und austauschbar sind.
+- Allgemeine Abnutzung des Außenzeltes und aller Komponenten, einschließlich, aber nicht beschränkt auf Abspannleinen, Sturmgurte, Leiterabspannbänder usw.
+- Stöße im Gewebe, die eine natürliche Eigenschaft sind.
+- Schäden, die durch das Einpacken Ihres Zeltes/Zeltes im nassen Zustand verursacht werden, einschließlich, aber nicht beschränkt auf Farbübertragungen/dunkel gefärbte Stoffe, die auf hellere Stoffe übergehen, Schimmel usw.
+- Schäden, die durch extreme Witterungsbedingungen verursacht wurden, wie z. B. Stürme, Wind, Kälte usw., ohne darauf beschränkt zu sein.
+- Feuchtigkeit auf der Innenseite des Außenzeltes, verursacht durch Kondensation, einschließlich, aber nicht beschränkt auf Wetterbedingungen, unzureichende Belüftung usw.
+- Undichtigkeit durch Nähte aufgrund von übermäßigem Abrieb.
+- Schäden durch unsachgemäßen Gebrauch der Pumpe, einschließlich, aber nicht beschränkt auf Manipulationen am Pumpensystem, Einstellung des voreingestellten Drucks der Pumpe usw.
+- Leckagen durch Nähte, einschließlich Hauptnähte, bei denen es nicht möglich war, während des Herstellungsprozesses Nahtdichtungsmittel aufzutragen, oder bei denen sich das Klebeband abgelöst hat, oder bei denen das Klebeband während des Herstellungsprozesses unterbrochen wurde, weil Befestigungspunkte, Aufhängepunkte usw. angebracht werden mussten.
+- Schäden aufgrund von Überspannung, einschließlich, aber nicht beschränkt auf beschädigte Nähte, Reißverschlüsse, Aufhängepunkte usw.
+- Gebrochene oder beschädigte Reißverschlüsse, verursacht durch unangemessene Kraft, Einklemmen, falsches Einhängen usw.
+- Gebrochene Schnallen/Reißverschlüsse, die durch Überspannung/unangemessene Kraft usw. verursacht wurden.
+- Schäden, die durch Kochen im Zelt oder in der Nähe des Zeltes entstanden sind.
+- Schäden, die durch UV-Strahlung oder sauren Regen am Zelt und seinen Bestandteilen entstanden sind.
+- Schäden, die durch Springen, Hüpfen, Stoßen auf oder von AIR-Rohren oder durch Verdrehen, Biegen, Verrenken oder Handhabung von AIR-Rohren in einer Weise verursacht werden, die unweigerlich zu Schäden führt.
+- Produkte, die an festen Standorten, bei Ausstellungen oder bei kommerzieller Nutzung durch Verleihfirmen verwendet werden.
+- Transport- oder Versandkosten zum und vom Hersteller oder dessen anerkannten Vertretern/Händlern für Reparaturen oder die Beurteilung eines Garantieanspruchs.
+
+**DIES BERÜHRT NICHT IHRE GESETZLICHEN RECHTE**.
+
+Der Hersteller und/oder seine anerkannten Vertreter/Händler, Direktoren, Angestellten oder Versicherer haften nicht für Folgeschäden oder andere Schäden, Verluste oder Ausgaben in Verbindung mit oder aufgrund der Unfähigkeit, das Produkt für irgendeinen Zweck zu verwenden.
+
+**Jegliche Reklamation(en) aufgrund fehlender Teile oder fehlerhafter Ware MUSS vor der Verwendung erfolgen. Der Hersteller haftet nicht für Reklamationen wegen fehlender Teile oder fehlerhafter Ware, wenn das Produkt vom Benutzer vor der Verwendung nicht überprüft wurde.
+
+Sobald Sie die Genehmigung erhalten haben, senden Sie bitte den OPUS® zur Überprüfung an den Ort zurück, an dem Sie ihn gekauft haben. Die Kosten für den Transport werden von dieser Garantie nicht abgedeckt. Falls das Produkt zur Begutachtung zurückgeschickt wird, muss es in einem vollständig trockenen und sauberen Zustand sein.
+
+Bitte stellen Sie sicher, dass alle persönlichen Gegenstände entfernt sind. Andernfalls wird das Produkt ebenfalls als untauglich für eine Überprüfung eingestuft.
+
+Diese Garantie ist nicht übertragbar.
+
+Registrieren Sie Ihre OPUS®-Garantie innerhalb von 14 Tagen nach Abholung online unter: [www.purpleline.co.uk/product-registration](https://www.purpleline.co.uk/product-registration)
+
+___
+
+### Kontakt
+
+Allgemeine Anfragen: [enquiries@opuscamper.co.uk](mailto:enquiries@opuscamper.co.uk)
+
+Marketing-Anfragen: [marketing@opuscamper.co.uk](mailto:marketing@opuscamper.co.uk)
+
+Garantie-Anfragen: [warranty@opuscamper.co.uk](mailto:warranty@opuscamper.co.uk)
+
+[www.opuscamper.co.uk](https://www.opuscamper.co.uk/)
+
+01473 601200
+
+OPUS® Geschäftsbedingungen und Garantieinformationen finden Sie online unter: [www.opuscamper.co.uk/terms-conditions.html](https://www.opuscamper.co.uk/terms-conditions.html)
+
+Fotos und Diagramme dienen nur zur Veranschaulichung. Das tatsächliche Produkt kann abweichen und alle Spezifikationen können ohne vorherige Ankündigung geändert werden. Alle Informationen sind zum Zeitpunkt der Veröffentlichung korrekt. Purple Line Ltd 2021.
+
+UK Patent Nr. 2500946A
+
+REVISIONSNUMMER: OFC195CAIR-UM-0921-Rev.J
