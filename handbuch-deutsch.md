@@ -1,10 +1,3 @@
-# WICHTIG
-
-Diese Datei wurde von der Community übersetzt! Viele Teile wurden automatisiert übersetzt. Wenn etwas nicht passt, referenziert bitte immer das englische Original.
-Korrekturen können jederzeit als "Pull request" oder über eine "Issue" angestoßen werden. 
-
-Die Haftung für den Inhalt der abrufbaren Informationen wird ausgeschlossen.
-
 ## BENUTZERHANDBUCH
 
 ### Modell Nr. OFC195CAIR
@@ -12,12 +5,6 @@ Die Haftung für den Inhalt der abrufbaren Informationen wird ausgeschlossen.
 OFC195CAIR-UM-0921-Rev.J
 
 ___
-
-### WILLKOMMEN.
-
-Herzlichen Glückwunsch zum Kauf Ihres neuen OPUS® Wohnmobils.
-
-Vor Ihnen liegen Jahre voller unvergesslicher Erlebnisse. Machen wir Sie zunächst mit Ihrem neuen Faltcamper vertraut.
 
 #### Informationshinweise
 
@@ -1717,76 +1704,4 @@ Kontrollieren Sie regelmäßig und vor jeder Fahrt mit Ihrem OPUS® den Reifendr
 
 Wenn Sie die Option Reserverad und Träger gewählt haben, wird dieses immer in Form eines Stahlrades geliefert. Bitte beachten Sie, dass bei Verwendung des Reserverades die Drehmomenteinstellung geringer ist als bei den üblicherweise am OPUS® verwendeten Leichtmetallrädern.
 
-___
 
-### GARANTIE.
-
-FÜR GARANTIE- UND KUNDENDIENSTFRAGEN WENDEN SIE SICH BITTE IN ERSTER LINIE AN IHREN VERTRAGSHÄNDLER.
-
-OPUS® gewährt auf das Wohnmobil für die Freizeitnutzung eine Garantie von 12 Monaten ab dem Tag der Abholung. Für die AIR-Schlauchtechnik gilt eine Garantiezeit von 24 Monaten ab diesem Datum.
-
-OPUS® übernimmt die Arbeits- und Ersatzteilkosten (Transport ausgeschlossen) für die im Rahmen dieser Garantie reparierten Waren, sofern:
-
-- Die Fehler sind ausschließlich auf Material- oder Verarbeitungsfehler zurückzuführen.
-- Die Anweisungen in der Bedienungsanleitung wurden zu jeder Zeit sorgfältig befolgt.
-- Es wurden keine nicht genehmigten Reparaturen durchgeführt.
-
-Nicht von der Garantie abgedeckt sind u. a. folgende Punkte oder Reparaturen
-
-- Defekte, die auf Verschleiß durch normalen Gebrauch zurückzuführen sind.
-- Defekte, die durch Missbrauch, Unfall, Sturm oder vorsätzliche Beschädigung entstanden sind.
-- Schäden, die durch unsachgemäße Lagerung oder Wartung entstanden sind.
-- Fahrlässigkeit oder Schäden, die durch nicht autorisierte Reparaturen entstanden sind.
-- Blasenschäden, einschließlich, aber nicht beschränkt auf übermäßiges Aufblasen, unnötiges Lösen der versiegelten Reißverschlüsse an den schwarzen Halterohren usw. Bitte beachten Sie, dass die aufblasbaren Blasen einem Verschleiß unterliegen und austauschbar sind.
-- Allgemeine Abnutzung des Außenzeltes und aller Komponenten, einschließlich, aber nicht beschränkt auf Abspannleinen, Sturmgurte, Leiterabspannbänder usw.
-- Stöße im Gewebe, die eine natürliche Eigenschaft sind.
-- Schäden, die durch das Einpacken Ihres Zeltes/Zeltes im nassen Zustand verursacht werden, einschließlich, aber nicht beschränkt auf Farbübertragungen/dunkel gefärbte Stoffe, die auf hellere Stoffe übergehen, Schimmel usw.
-- Schäden, die durch extreme Witterungsbedingungen verursacht wurden, wie z. B. Stürme, Wind, Kälte usw., ohne darauf beschränkt zu sein.
-- Feuchtigkeit auf der Innenseite des Außenzeltes, verursacht durch Kondensation, einschließlich, aber nicht beschränkt auf Wetterbedingungen, unzureichende Belüftung usw.
-- Undichtigkeit durch Nähte aufgrund von übermäßigem Abrieb.
-- Schäden durch unsachgemäßen Gebrauch der Pumpe, einschließlich, aber nicht beschränkt auf Manipulationen am Pumpensystem, Einstellung des voreingestellten Drucks der Pumpe usw.
-- Leckagen durch Nähte, einschließlich Hauptnähte, bei denen es nicht möglich war, während des Herstellungsprozesses Nahtdichtungsmittel aufzutragen, oder bei denen sich das Klebeband abgelöst hat, oder bei denen das Klebeband während des Herstellungsprozesses unterbrochen wurde, weil Befestigungspunkte, Aufhängepunkte usw. angebracht werden mussten.
-- Schäden aufgrund von Überspannung, einschließlich, aber nicht beschränkt auf beschädigte Nähte, Reißverschlüsse, Aufhängepunkte usw.
-- Gebrochene oder beschädigte Reißverschlüsse, verursacht durch unangemessene Kraft, Einklemmen, falsches Einhängen usw.
-- Gebrochene Schnallen/Reißverschlüsse, die durch Überspannung/unangemessene Kraft usw. verursacht wurden.
-- Schäden, die durch Kochen im Zelt oder in der Nähe des Zeltes entstanden sind.
-- Schäden, die durch UV-Strahlung oder sauren Regen am Zelt und seinen Bestandteilen entstanden sind.
-- Schäden, die durch Springen, Hüpfen, Stoßen auf oder von AIR-Rohren oder durch Verdrehen, Biegen, Verrenken oder Handhabung von AIR-Rohren in einer Weise verursacht werden, die unweigerlich zu Schäden führt.
-- Produkte, die an festen Standorten, bei Ausstellungen oder bei kommerzieller Nutzung durch Verleihfirmen verwendet werden.
-- Transport- oder Versandkosten zum und vom Hersteller oder dessen anerkannten Vertretern/Händlern für Reparaturen oder die Beurteilung eines Garantieanspruchs.
-
-**DIES BERÜHRT NICHT IHRE GESETZLICHEN RECHTE**.
-
-Der Hersteller und/oder seine anerkannten Vertreter/Händler, Direktoren, Angestellten oder Versicherer haften nicht für Folgeschäden oder andere Schäden, Verluste oder Ausgaben in Verbindung mit oder aufgrund der Unfähigkeit, das Produkt für irgendeinen Zweck zu verwenden.
-
-**Jegliche Reklamation(en) aufgrund fehlender Teile oder fehlerhafter Ware MUSS vor der Verwendung erfolgen. Der Hersteller haftet nicht für Reklamationen wegen fehlender Teile oder fehlerhafter Ware, wenn das Produkt vom Benutzer vor der Verwendung nicht überprüft wurde.
-
-Sobald Sie die Genehmigung erhalten haben, senden Sie bitte den OPUS® zur Überprüfung an den Ort zurück, an dem Sie ihn gekauft haben. Die Kosten für den Transport werden von dieser Garantie nicht abgedeckt. Falls das Produkt zur Begutachtung zurückgeschickt wird, muss es in einem vollständig trockenen und sauberen Zustand sein.
-
-Bitte stellen Sie sicher, dass alle persönlichen Gegenstände entfernt sind. Andernfalls wird das Produkt ebenfalls als untauglich für eine Überprüfung eingestuft.
-
-Diese Garantie ist nicht übertragbar.
-
-Registrieren Sie Ihre OPUS®-Garantie innerhalb von 14 Tagen nach Abholung online unter: [www.purpleline.co.uk/product-registration](https://www.purpleline.co.uk/product-registration)
-
-___
-
-### Kontakt
-
-Allgemeine Anfragen: [enquiries@opuscamper.co.uk](mailto:enquiries@opuscamper.co.uk)
-
-Marketing-Anfragen: [marketing@opuscamper.co.uk](mailto:marketing@opuscamper.co.uk)
-
-Garantie-Anfragen: [warranty@opuscamper.co.uk](mailto:warranty@opuscamper.co.uk)
-
-[www.opuscamper.co.uk](https://www.opuscamper.co.uk/)
-
-01473 601200
-
-OPUS® Geschäftsbedingungen und Garantieinformationen finden Sie online unter: [www.opuscamper.co.uk/terms-conditions.html](https://www.opuscamper.co.uk/terms-conditions.html)
-
-Fotos und Diagramme dienen nur zur Veranschaulichung. Das tatsächliche Produkt kann abweichen und alle Spezifikationen können ohne vorherige Ankündigung geändert werden. Alle Informationen sind zum Zeitpunkt der Veröffentlichung korrekt. Purple Line Ltd 2021.
-
-UK Patent Nr. 2500946A
-
-REVISIONSNUMMER: OFC195CAIR-UM-0921-Rev.J
